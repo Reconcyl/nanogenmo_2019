@@ -1,0 +1,14 @@
+[package]
+name = "nanogenmo_2019"
+version = "0.1.0"
+authors = ["Reconcyl"]
+edition = "2018"
+
+[dependencies]
+id-arena = "2.2.1"
+regex = "1.3.1"
+lazy_static = "1.4.0"
+inflections = "1.1.1"
+hex = "0.4.0"
+rand = "0.7.2"
+rand_distr = "0.2.2"
