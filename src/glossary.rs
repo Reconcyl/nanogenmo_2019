@@ -26,7 +26,7 @@ const DEFINED: &[(&str, &str)] = &[
     ("organized",     "I wish I knew."),
     ("contents",      "What's in."),
     ("chapter",       "The central component of a book."),
-    ("central",       "<insert in-joke>"),
+    ("central",       "\\<insert in-joke>"),
     ("joke",          "What's made more confusing by being read out-of-order?"),
     ("confusing",     "See this book."),
     ("read",          "What you're supposed to do to a book, but shouldn't to this one."),
